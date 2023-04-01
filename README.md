@@ -1,13 +1,4 @@
-
-CSCE 2110-Project1
-SIM-CITY PLANNING
-#Group 21
-
-Group Members:
-1. Prajit Budhathoki
-2. Pravash Timalsina
-3. Asim Timsina
-4. Rohan Lamichhane
+SIM-CITY 
 
 #How to Compile
 1. Compile the code by placing the files {main.cpp, cells.cpp, cells.h, cell.cpp, cell.h} into one directory seperate from other .cpp files.
